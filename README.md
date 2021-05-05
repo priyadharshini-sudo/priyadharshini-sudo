@@ -10,11 +10,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyadharshini-sudo" alt="atchayanr" /></a> </p>
 
 
-<h2 align="left">Connect with me:</h2>
 
-<img align="left" alt="priyadharshini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-
-<br />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
