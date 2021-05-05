@@ -1,4 +1,4 @@
-![github](https://user-images.githubusercontent.com/75022803/116808017-57ae2880-aaeb-11eb-88fa-614bcb8776b2.jpg)
+
 
 <h1 align="center">Hi 👋, I'm priya</h1>
 
