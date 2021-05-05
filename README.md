@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm priya</h1>
 
-<h3 align="center"> eager to develope app</h3>
+<h3 align="center"> Achievement starts with practice app</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadharshini-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="priyadharshini-sudo" /> </p>
 
