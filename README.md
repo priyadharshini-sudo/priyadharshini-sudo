@@ -24,16 +24,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
-</p>
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<img align="left" alt="priyadharshini-sudo's GitHub Stats" src="https://github-readme-stats-priyadharshini-sudo.vercel.app/api?username=priyadharshini-sudo&show_icons=true&hide_border=true" />
- </details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyadharshini-sudo&show_icons=true&locale=en" alt="priyadharshini-sudo" /></p>
+
  
- <details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Priya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadharshini-sudo" />
-
-</details>
-<br>
+ 
