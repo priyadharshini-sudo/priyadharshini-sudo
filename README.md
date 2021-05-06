@@ -7,7 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadharshini-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="priyadharshini-sudo" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyadharshini-sudo" alt="priyadharshini-sudo" /></a> </p>
+<h1 style="margin-top:20px;">Github Trophies 🏆</h1>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=priyadharshini-sudo&theme=onedark&margin-w=15&margin-h=15&title=Commit,Followers,Issues,Joined2020&row=1&no-frame=true)](https://github.com/priyadharshini-sudo)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/priyadharshinii/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
