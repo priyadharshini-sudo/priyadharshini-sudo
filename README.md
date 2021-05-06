@@ -7,7 +7,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadharshini-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="priyadharshini-sudo" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyadharshini-sudo" alt="atchayanr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyadharshini-sudo" alt="priyadharshini-sudo" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+ <a href="https://www.linkedin.com/in/priyadharshinii/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+   <a href="pdharshini763@gmail" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 
 
 
