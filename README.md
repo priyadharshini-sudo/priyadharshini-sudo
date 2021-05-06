@@ -1,5 +1,4 @@
 
-
 <h1 align="center">
   Hi I am Priya
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -7,6 +6,10 @@
 
 
 <h3 align="center"> Achievement starts with practice </h3>
+
+- 🌱 Debugging life **still..**
+
+- 👯 I’m looking to collaborate on **flutter projects*
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyadharshini-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="priyadharshini-sudo" /> </p>
@@ -33,4 +36,5 @@
 
 
  
+
  
